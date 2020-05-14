@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://3pageplus.com/wp-content/uploads/2019/03/change-background-color-on-wix-1024x678.jpg");
+    background-position: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+ul {
+    list-style-type: none;
+    margin:         ;
+    padding: 0;
+    overflow: hidden; 
+    background-color: #333333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color:yellow;
+    text-align: right;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }
